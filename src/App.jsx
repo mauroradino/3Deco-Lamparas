@@ -14,7 +14,7 @@ const products = [
     title: "Lámpara Kora",
     image:
       "./assets/kora.webp",
-    desc: "📏 Medidas: 15 cm de alto y 13 cm de diámetro",
+    desc: "📏Dimensiones: 13 cm x 13 cm x 15 cm",
     price: "$27.000"  
   },
   {
@@ -23,7 +23,7 @@ const products = [
     image:
     "./assets/velo.webp",
     tileBg: "#2E6D6B",
-    desc:"📏 Medidas: 19 × 17 cm",
+    desc:"📏 Medidas: 19 cm × 17 cm x 15 cm",
     price: "$20.000"
   },
   {
@@ -33,7 +33,7 @@ const products = [
     "./assets/halo.webp",
     fit: "contain",
     bg: "#FFFFFF",
-    desc:"📏 Medidas: 16 × 18 x 18 cm",
+    desc:"📏Dimensiones: 16 cm × 18 cm x 18 cm",
     price: "$20.000"
   },
   {
@@ -41,7 +41,7 @@ const products = [
     title: "Lámpara Helix",
     image:
     "./assets/helix.webp",
-    desc:"📏 Medidas: 15 cm de alto y 10 cm de diámetro",
+    desc:"📏Dimensiones: 10 cm x 10 cm x 15 cm",
     price: "$30.500"
   },
   {
@@ -49,7 +49,7 @@ const products = [
     title: "Lámpara Wave",
     image:
     "./assets/wave.webp",
-    desc:"📏 Medidas: 13 cm de alto y 9 cm",
+    desc:"📏Dimensiones: 9 cm x 9 cm x 13 cm",
     price: "$23.000"
   },
   {
@@ -57,7 +57,7 @@ const products = [
     title: "Lámpara Shade",
     image:
     "./assets/shade.webp",
-    desc:"📏 Medidas: 15 cm de alto y 12 cm de diámetro",
+    desc:"📏Dimensiones: 12 cm x 12 cm x 15 cm",
     price: "$25.000"
   },
   {
@@ -65,7 +65,7 @@ const products = [
     title: "Lámpara Nébula",
     image:
     "./assets/nebula.webp",
-    desc: "📏 Medidas: 15 cm de alto y 9 cm de diámetro",
+    desc: "📏Dimensiones: 9 cm x 9 cm x 15 cm",
     price: "$28.000"
   },
   {
@@ -73,7 +73,7 @@ const products = [
     title: "Lámpara Eter",
     image:
     "./assets/eter.webp",
-    desc:"📏 Medidas: 15 cm de alto y 8 cm de diámetro",
+    desc:"📏Dimensiones: 8 cm x 8 cm x 15 cm",
     price: "$25.000"
   },
   {
@@ -81,7 +81,7 @@ const products = [
     title: "Lámpara Polaris",
     image:
     "./assets/polaris.webp",
-    desc: "📏 Medidas: 18 cm de alto y 12 cm de diámetro máximo",
+    desc: "📏Dimensiones: 12 cm x 12 cm x 18 cm",
     price: "$28.000"
   },
   {
@@ -89,7 +89,7 @@ const products = [
     title: "Lámpara Axis",
     image:
     "./assets/axis.webp",
-    desc:"📏 Medidas: 18 cm de alto y 11 cm de diámetro",
+    desc:"📏Dimensiones: 11 cm x 11 cm x 18 cm",
     price: "$30.000"
   }
 ];
